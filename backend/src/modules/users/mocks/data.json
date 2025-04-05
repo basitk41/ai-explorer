@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Natural Language Processing",
+    "description": "Advanced language understanding to interpret and respond to human text with contextual awareness.",
+    "icon": "🗣️"
+  },
+  {
+    "id": 2,
+    "title": "Computer Vision",
+    "description": "Systems that can identify objects, people, writing, and actions in images and videos.",
+    "icon": "👁️"
+  },
+  {
+    "id": 3,
+    "title": "Generative Models",
+    "description": "Create new content like images, music, and text based on training data patterns.",
+    "icon": "🎨"
+  },
+  {
+    "id": 4,
+    "title": "Reinforcement Learning",
+    "description": "AI agents that learn to make decisions by receiving rewards for desired outcomes.",
+    "icon": "🎯"
+  }
+]
